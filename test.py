@@ -1,6 +1,6 @@
 ### Write a linear regression code using a modular approach with separate functions for model training, prediction, and evaluation.
 
-
+### IMPORT all the required LIBRARIES
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
